@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./names.component.css']
 })
 export class NamesComponent implements OnInit {
-  nameList = ['Sri', 'Swap', 'Kalp', 'Nani'];
+  nameList = ['john', 'judy', 'mark', 'date', 'nancy'];
   constructor() { }
 
   ngOnInit() {
